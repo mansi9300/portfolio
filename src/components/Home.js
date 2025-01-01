@@ -80,6 +80,7 @@ const Home = () => {
                 "A Passionate Problem Solver.",
                 "A Creative Designer.",
                 "An Ambitious Learner.",
+                "A MERN developer"
               ],
               autoStart: true,
               loop: true,
